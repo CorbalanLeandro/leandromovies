@@ -1,0 +1,15 @@
+.movie-box{
+    padding: 0.25em;
+}
+.movie-title-box{
+    overflow: hidden;
+}
+.movie-title{
+    display: block;
+    position: absolute;
+    padding: 2px;
+    bottom: 0.25em;
+    right: 0.25em;
+    left: 0.25em;
+    background-color: rgba(0, 0, 0, 0.7);
+}
